@@ -1,1 +1,2 @@
-# Cognorise
+# CognoriseInfoTech
+Web development internship
