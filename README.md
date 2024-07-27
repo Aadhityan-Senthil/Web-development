@@ -4,3 +4,4 @@ This repo contains three mini projects
 2. A BMI Scale calculator
 3. A Countdown timer
 
+These mini projects were done to nark my beginning in web development.
